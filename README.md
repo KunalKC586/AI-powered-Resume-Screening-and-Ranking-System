@@ -45,7 +45,7 @@ streamlit run Main.py
 ```
 4. Access the Application
 ```
-Open your browser and navigate to the generated custom URL like http://localhost:8000/ to start using the AI-powered resume screening tool.
+Open your browser and navigate to the generated custom URL to start using the AI-powered resume screening tool.
 ```
 
 # 📜 Key Functions
