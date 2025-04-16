@@ -23,16 +23,16 @@ For a detailed overview of the project, you can refer to the project Document:
 
 # 📂 Directory Structure
 ```
-github.com/codewithshek/AI-powered-Resume-Screening-and-Ranking-System/
+github.com/KunalKC586/AI-powered-Resume-Screening-and-Ranking-System/
 ├── Readme.md
-├── AI-powered-Resume-Screening-and-Ranking-System-PPT.pdf
+├── AI-powered-Resume-Screening-and-Ranking-System.pdf
 └── Main.py
  ```
 # 📌 Setup & Installation
 
 1. Clone the Repository
 ```
-git clone https://github.com/codewithshek/AI-powered-Resume-Screening-and-Ranking-System.git
+git clone https://github.com/KunalKC586/AI-powered-Resume-Screening-and-Ranking-System.git
 cd AI-powered-Resume-Screening-and-Ranking-System
 ```
 2. Install Dependencies
@@ -45,7 +45,7 @@ streamlit run Main.py
 ```
 4. Access the Application
 ```
-Open your browser and navigate to the generated custom URL like http://localhost:8501/ to start using the AI-powered resume screening tool.
+Open your browser and navigate to the generated custom URL like http://localhost:8000/ to start using the AI-powered resume screening tool.
 ```
 
 # 📜 Key Functions
@@ -63,4 +63,4 @@ Open your browser and navigate to the generated custom URL like http://localhost
 # 🤝 Contributing
 Feel free to fork and submit pull requests. Any contributions are welcome!
 
-Made with ❤️ by Kunal Kumar Choubey as part of **AICTE- Internship on AI: Transformative Learning with TechSaksham – A joint CSR initiative of Microsoft & SAP, focusing on AI Technologies**
+Made by Kunal Kumar Choubey as part of **AICTE- Internship on AI: Transformative Learning with TechSaksham – A joint CSR initiative of Microsoft & SAP, focusing on AI Technologies**
